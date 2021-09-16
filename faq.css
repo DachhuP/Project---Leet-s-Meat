@@ -1,0 +1,24 @@
+li,a{
+    list-style-type: none;
+text-decoration: none;
+display: inline;
+margin: 10px;
+font-size: medium;
+color: silver;
+
+
+}
+a{
+    color: black;
+}
+body{
+    display: grid;
+    height: 100%;
+    width: 100%;
+      background-image:linear-gradient(rgba(49, 44, 44, 0.5),rgba(46, 40, 40, 0.5)) , url(bc2.jpg);
+  
+    }
+    .foot{
+        background-color: rgb(61, 61, 61);
+    }
+    
